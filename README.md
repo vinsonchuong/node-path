@@ -1,15 +1,15 @@
-# node-path
+# set-node-path
 Set the Node.js module search path.
 
 ## Installing
-`node-path` is available as an
-[npm package](https://www.npmjs.com/package/node-path).
+`set-node-path` is available as an
+[npm package](https://www.npmjs.com/package/set-node-path).
 
 ## Usage
 ```js
 const path = require('path');
 
-require('node-path')(
+require('set-node-path')(
   path.resolve('.'),
   path.resolve('vendor')
 );
