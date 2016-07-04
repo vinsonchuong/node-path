@@ -1,17 +1,12 @@
 {
   "name": "set-node-path",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Set the Node.js module search path",
   "keywords": ["require", "module", "NODE_PATH"],
   "homepage": "https://github.com/vinsonchuong/set-node-path",
   "bugs": "https://github.com/vinsonchuong/set-node-path/issues",
   "license": "MIT",
   "author": "Vinson Chuong <vinsonchuong@gmail.com>",
-  "files": [
-    "LICENSE",
-    "README.md",
-    "src"
-  ],
   "repository": {
     "type": "git",
     "url": "https://github.com/vinsonchuong/set-node-path"
